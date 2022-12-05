@@ -1,0 +1,47 @@
+APP/APP.d APP/APP.o: ../APP/APP.c ../APP/../LIB/STD_TYPES.h \
+ ../APP/../LIB/Macros.h ../APP/../MCAL/DIO/DIO.h \
+ ../APP/../MCAL/DIO/STD_TYPES.h ../APP/../MCAL/DIO/atmega32a_conf.h \
+ ../APP/../MCAL/PORT/PORT_INTERFACE.h \
+ ../APP/../MCAL/EXTIN/EXTERNAL\ INTERRUPT.h \
+ ../APP/../MCAL/EXTIN/STD_TYPES.h ../APP/../MCAL/GIE/GIE_INTERFACE.h \
+ ../APP/../MCAL/TIMER0/TIMER0_INTERFACE.h ../APP/../HAL/LEDS/LEDS.h \
+ ../APP/../HAL/LEDS/DIO.h ../APP/../HAL/LEDS/STD_TYPES.h \
+ ../APP/../HAL/SW/sw.h ../APP/../HAL/SW/../../MCAL/DIO/DIO.h \
+ ../APP/../HAL/SW/../../MCAL/DIO/STD_TYPES.h ../APP/APP.h \
+ ../APP/STD_TYPES.h
+
+../APP/../LIB/STD_TYPES.h:
+
+../APP/../LIB/Macros.h:
+
+../APP/../MCAL/DIO/DIO.h:
+
+../APP/../MCAL/DIO/STD_TYPES.h:
+
+../APP/../MCAL/DIO/atmega32a_conf.h:
+
+../APP/../MCAL/PORT/PORT_INTERFACE.h:
+
+../APP/../MCAL/EXTIN/EXTERNAL\ INTERRUPT.h:
+
+../APP/../MCAL/EXTIN/STD_TYPES.h:
+
+../APP/../MCAL/GIE/GIE_INTERFACE.h:
+
+../APP/../MCAL/TIMER0/TIMER0_INTERFACE.h:
+
+../APP/../HAL/LEDS/LEDS.h:
+
+../APP/../HAL/LEDS/DIO.h:
+
+../APP/../HAL/LEDS/STD_TYPES.h:
+
+../APP/../HAL/SW/sw.h:
+
+../APP/../HAL/SW/../../MCAL/DIO/DIO.h:
+
+../APP/../HAL/SW/../../MCAL/DIO/STD_TYPES.h:
+
+../APP/APP.h:
+
+../APP/STD_TYPES.h:
